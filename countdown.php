@@ -15,3 +15,9 @@ $days =(int) ($difference/86400) ;
 //Output
 print "Christmas is in $days days";
 ?>
+
+
+<p>
+<a href="http://www.goatella.com">Goatella's Home Page</a><p>
+
+<a href="https://github.com/Goatella/PHP-Countdown">This Script's GitHub page</a>
